@@ -112,6 +112,20 @@ A curated selection of products I've built, engineered, and shipped:
     </tr>
     <tr>
       <td>
+        <b>🛡️ AdShield</b><br/>
+        <sub>MV3 Cross-Browser Ad Blocker</sub>
+      </td>
+      <td>
+        A high-performance Manifest V3 ad blocker engineered with native declarativeNetRequest (DNR) speed, automated 16x YouTube video ad skipper &amp; muter, anti-adblock wall bypass, interactive element picker, and 100% zero-telemetry privacy.
+      </td>
+      <td>
+        <code>Manifest V3</code> <code>TypeScript</code><br/>
+        <code>React</code> <code>DNR</code><br/><br/>
+        <a href="https://github.com/Tejas-singh-31/adshield"><b>💻 Repository ➔</b></a>
+      </td>
+    </tr>
+    <tr>
+      <td>
         <b>🛡️ ScrollGuard</b><br/>
         <sub>Dopamine & Focus Defender</sub>
       </td>
