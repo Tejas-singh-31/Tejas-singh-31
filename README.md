@@ -121,7 +121,7 @@ A curated selection of products I've built, engineered, and shipped:
       <td>
         <code>Manifest V3</code> <code>TypeScript</code><br/>
         <code>React</code> <code>DNR</code><br/><br/>
-        <a href="https://github.com/Tejas-singh-31/adshield"><b>💻 Repository ➔</b></a>
+        <a href="https://adshield.apexdevs.workers.dev/"><b>🌐 Live App ➔</b></a> • <a href="https://github.com/Tejas-singh-31/adshield"><b>💻 Repo ➔</b></a>
       </td>
     </tr>
     <tr>
